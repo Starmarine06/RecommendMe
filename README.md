@@ -21,7 +21,7 @@ If you're ready to transcend the ordinary and unlock a universe of entertainment
 This platform helps you efficiently find and enjoy your next favorite show or film, making your entertainment discovery seamless and exciting!
 
 ## Usage
-[![Click Here](https://img.shields.io/static/v1?label=Click%20Here&message=Download&color=green)](https://www.planetminecraft.com/data-pack/chunk-loader-5685112/)
+[![Click Here](https://img.shields.io/static/v1?label=Click%20Here&message=Visit%20Website&color=green)](https://www.planetminecraft.com/data-pack/chunk-loader-5685112/)
 And search whatever show, movie, or anime that you want!
     
 ## 🚀 About Me
