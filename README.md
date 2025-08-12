@@ -1,5 +1,5 @@
 
-# Chunk Loader
+# Recommend Me!
 [![Version](https://img.shields.io/static/v1?label=Version&message=1.0.0v&color=blue)]()
 
 Tired of endlessly scrolling through streaming services, searching for that perfect anime, gripping movie, or captivating cartoon series? Wishing there was a powerful guide to cut through the noise and point you directly to your next binge-worthy adventure? Perhaps you've dreamt of a personalized curator, ready to unveil hidden gems and tailored experiences just for you?
